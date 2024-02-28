@@ -1,6 +1,6 @@
 # Pizza-Report
 
-Pizza Sales is a kaggle dataset recorded between january 01 - december 25, 2015. Main goal is to find some insights.
+Pizza Sales is a kaggle dataset recorded between january 01 - december 25, 2015. Main goal is to find some insights for pizza sales in order to help the owner to decide what to do.
 
 Here are some insights: 
 
